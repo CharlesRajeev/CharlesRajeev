@@ -27,11 +27,6 @@ I'm an **inspiring and passionate IT Professional** driven by curiosity and a de
 
 ---
 
-| <a href="https://github.com/charlesrajeev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=charlesrajeev&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Charles's GitHub Stats" /></a> | <a href="https://github.com/charlesrajeev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesrajeev&layout=compact&theme=radical&hide_border=true" /></a> |
-| ------------- | ------------- |
-
----
-
 ## 🚧 Projects and Hands-on Experience  
 
 ### **Remote Support Tools**  
@@ -94,14 +89,19 @@ I'm an **inspiring and passionate IT Professional** driven by curiosity and a de
 
 ### 📫 Connect with Me  
 
-<a href="https://twitter.com/charlesrajeev">
-  <img align="right" alt="Charles | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/>
-</a>
 <a href="https://www.linkedin.com/in/charlesrajeev">
   <img align="right" alt="Charles | LinkedIn" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
+<a href="mailto:rajeevmundu47@gmail.com">
+  <img align="right" alt="Charles | Email" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>
+</a>
+<a href="https://www.instagram.com/charles_rajiv/">
+  <img align="right" alt="Charles | Instagram" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg"/>
+</a>
 <a href="https://github.com/charlesrajeev">
-  <img align="right" alt="Charles | GitHub" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>
+  <img align="right" alt="Charles | GitHub" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"/>
 </a>
 
----
+- 📧 Email: [rajeevmundu47@gmail.com](mailto:rajeevmundu47@gmail.com)  
+- 📸 Instagram: [charles_rajiv](https://www.instagram.com/charles_rajiv/)  
+- 💻 GitHub: [charlesrajeev](https://github.com/charlesrajeev)  
